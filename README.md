@@ -1,2 +1,2 @@
 # Space-Fighters
-fight against other enemys using layser bullets
+fight against other enemys using lazer bullets
